@@ -3,8 +3,6 @@
 ## Project Objective
 This project implements an **end-to-end retail data analytics pipeline** that simulates how real-world retail organizations ingest raw data, enforce data quality, and generate business insights across promotions, loyalty, customer segmentation, and inventory performance.
 
-The system is designed with **data governance first**, followed by **parallel analytics modules**, as illustrated in the pipeline flow.
-
 ---
 
 ## End-to-End Process Flow
